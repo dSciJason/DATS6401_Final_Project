@@ -1,11 +1,11 @@
 https://dscijason.github.io/DATS6401_Final_Project/
 
-#United States Economic Concentration
-##Visualization of how wealth is becoming ever more concentrated
+# United States Economic Concentration
+## Visualization of how wealth is becoming ever more concentrated
 
-###Final project for DATS6401, Visualization of Complex Data, Professor Zahadat, George Washington University
+### Final project for DATS6401, Visualization of Complex Data, Professor Zahadat, George Washington University
 
-### **bold text** Over 700k data points used
+### Over 700k data points used
 
 **bold text** All dollars are in January 2018 constant dollars
 This was selected in order to allow you to more easily relate to earlier salaries
