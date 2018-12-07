@@ -38,4 +38,4 @@ Highest Values
 
 Lowest Values
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQcRrd6O_2lomzwvZIg9qALNe9TjhXwMyv_PMt8-8FN6ZskGGQEAyIiR8Ry6VwwAASKS6-XWdTSBNlg/pubchart?oid=192767159&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQcRrd6O_2lomzwvZIg9qALNe9TjhXwMyv_PMt8-8FN6ZskGGQEAyIiR8Ry6VwwAASKS6-XWdTSBNlg/pubchart?oid=192767159&amp;format=interactive"></iframe>
