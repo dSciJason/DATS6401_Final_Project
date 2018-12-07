@@ -17,19 +17,30 @@ Are the top earners seeing actual wage growth? Was there a change since 1999 in 
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGVzCU3aHkVlADbhDV7ljET4qPMQTqBghaNzHPSfsu34UeZh9HbPkDTUoRVKt14l6d6xnFtqBN2PJq/pubchart?oid=1196850580&amp;format=interactive"></iframe>
 
+
+
 Another visualization wrapper:
 
 <iframe id="datawrapper-chart-94M2e" src="//datawrapper.dwcdn.net/94M2e/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="335"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["94M2e"]={},window.datawrapper["94M2e"].embedDeltas={"100":385,"200":360,"300":335,"400":335,"500":335,"700":335,"800":335,"900":335,"1000":335},window.datawrapper["94M2e"].iframe=document.getElementById("datawrapper-chart-94M2e"),window.datawrapper["94M2e"].iframe.style.height=window.datawrapper["94M2e"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["94M2e"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("94M2e"==b)window.datawrapper["94M2e"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
 
+
+
 Have earnings improved for the lowest earners since 1999 in constant dollars?
 
  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2aEkP7ylnodFH3oJ2NtPvdroF62QcDQcNgDkMbiPw8ArV4wSd6b65vEFoY9T8oFUSIRMW6K2mDwij/pubchart?oid=835263126&amp;format=interactive"></iframe>
+
+
+
 
 ### US Corporate Profits
 
 Pre-Tax US Corporate Profits from January 1999 to January 2016
 
 <iframe id="datawrapper-chart-BjZVk" src="//datawrapper.dwcdn.net/BjZVk/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="500"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["BjZVk"]={},window.datawrapper["BjZVk"].embedDeltas={"100":650,"200":575,"300":525,"400":525,"500":525,"700":500,"800":500,"900":500,"1000":500},window.datawrapper["BjZVk"].iframe=document.getElementById("datawrapper-chart-BjZVk"),window.datawrapper["BjZVk"].iframe.style.height=window.datawrapper["BjZVk"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["BjZVk"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data[“datawrapper-height"])if("BjZVk"==b)window.datawrapper["BjZVk"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+
+
+
+
 
 
 ### Land Values
