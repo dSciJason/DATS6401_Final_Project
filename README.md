@@ -30,7 +30,7 @@ Pre-Tax US Corporate Profits from January 1999 to January 2016
 
 ### Land Values
 
-As economies change, so do the related valuations that they physically rest upon. 
+As economies change, so do the related valuations that they physically rest upon.
 
 Highest Values
 
