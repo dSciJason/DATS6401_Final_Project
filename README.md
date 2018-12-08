@@ -4,8 +4,9 @@ https://dscijason.github.io/DATS6401_Final_Project/
 ## Visualization of how wealth is becoming ever more concentrated
 
 ### Final project for DATS6401, Visualization of Complex Data, Professor Zahadat, George Washington University
+#### All materials are housed at the projects github page: https://github.com/dSciJason/DATS6401_Final_Project
 
-### Over 700k data points used
+### Over 700k data points used 
 
 ### All dollars are in January 2018 constant dollars
 This was selected in order to allow you to more easily relate to earlier salaries
